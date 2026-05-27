@@ -1,0 +1,27 @@
+# Design & UX
+https://www.nngroup.com/feed/rss/
+https://uxdesign.cc/feed
+https://uxplanet.org/feed
+https://www.smashingmagazine.com/feed/
+https://alistapart.com/main/feed/
+https://www.uxbooth.com/articles/feed/
+https://www.uxmatters.com/index.xml
+https://boxesandarrows.com/rss/
+# Product Design & Strategy
+https://www.mindtheproduct.com/feed/
+https://productcoalition.com/feed
+https://www.lennysnewsletter.com/feed
+# Service Design & CX
+https://www.practicalservicedesign.com/feed
+https://servicedesignshow.com/feed/
+# Dados & Comportamento
+https://towardsdatascience.com/feed
+https://www.behavioraleconomics.com/feed/
+# IA & Tendências
+https://www.technologyreview.com/feed/
+https://www.wired.com/feed/category/design/latest/rss
+https://www.fastcompany.com/section/design/rss
+https://www.theverge.com/design/rss/index.xml
+# Hacker News (filtrado)
+https://hnrss.org/newest?q=UX+design+product&count=30
+https://hnrss.org/newest?q=AI+design+research&count=20
